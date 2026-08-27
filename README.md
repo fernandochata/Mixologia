@@ -2,7 +2,7 @@
 
 ## Ron ##
 
-## Tequila ## (México)
+## Tequila (México)
 
 Denominación de origen (1997) : Franja tequilera (Jalisco + Guanajuato, Michoacan, Nayarit, Tamaulipas) bajo el Consejo Regulador del Tequila
 
@@ -10,6 +10,8 @@ Denominación de origen (1997) : Franja tequilera (Jalisco + Guanajuato, Michoac
 
 (Aguardiente) Destilado de Agave Azul (Norma tec. 51% min)
 (agave azul tequilana weber)
+
+# Proceso
 
 - Jima
 - Hidrólisis
@@ -19,41 +21,50 @@ Denominación de origen (1997) : Franja tequilera (Jalisco + Guanajuato, Michoac
 - Reposo, añejamiento
 - Dilución, filtrado, embotellamiento
 
+# Tipos
+
 - Blanco o Plateado : 1 Mes
 - Reposado : min 2 Meses - 1 Año
 - Añejo : min 1 Año
 - Extra Añejo : 3 a 4 Años
+- Mezcal: Diferentes agaves, una sola destilación, sabor agresivo, tiene un gusano maguey (rojos y blancos)
 
 
-- Mezcal
-Diferentes agaves, una sola destilación, sabor agresivo, tiene un gusano maguey (rojos y blancos)
-
-
-Marcas
+# Marcas
 
 - Jose Cuervo Especial
+  
 [Plata] - 38% (agave + caramelo, hierbas frescas)
+
 [Reposado] - 38% (agave + madera, vainilla)
 
 - 1800
+
 [Blanco] - 40% (agave + citricos, hiervas)
+
 [Reposado] - 40% (agave + caramelo, vainilla, roble, ahumado)
 
 - Olmeca (100% agave azul)
+  
 [Silver] - 38% (agave + hiervas, citricos)
+
 [Reposado] - 38% (agave + madera, vainilla, miel, humo)
 
 - El Jimador (100% agave azul)
+  
 [Blanco] - 35% (agave + citricos, hiervas)
+
 [Reposado] - 35% (agave + roble, vainilla, caramelo)
 
 - Herradura (100% agave azul)
+  
 [Añejo] - 40% (agave + roble, limon, caramelo, vainilla)
 
 - Gusano Rojo (Maguey Espadin)
+  
 [Clásico] - 38%
 
-## Gin ## (Reino Unido)
+## Gin (Reino Unido)
 
 40% - 43% vol. alc. (80 y 86 proof)
 
