@@ -1,8 +1,8 @@
-## Pisco ##
+# Pisco
 
-## Ron ##
+# Ron
 
-## Tequila (México)
+# Tequila (México)
 
 Denominación de origen (1997) : Franja tequilera (Jalisco + Guanajuato, Michoacan, Nayarit, Tamaulipas) bajo el Consejo Regulador del Tequila
 
@@ -11,7 +11,7 @@ Denominación de origen (1997) : Franja tequilera (Jalisco + Guanajuato, Michoac
 (Aguardiente) Destilado de Agave Azul (Norma tec. 51% min)
 (agave azul tequilana weber)
 
-# Proceso
+## Proceso
 
 - Jima
 - Hidrólisis
@@ -21,7 +21,7 @@ Denominación de origen (1997) : Franja tequilera (Jalisco + Guanajuato, Michoac
 - Reposo, añejamiento
 - Dilución, filtrado, embotellamiento
 
-# Tipos
+## Tipos
 
 - Blanco o Plateado : 1 Mes
 - Reposado : min 2 Meses - 1 Año
@@ -30,19 +30,16 @@ Denominación de origen (1997) : Franja tequilera (Jalisco + Guanajuato, Michoac
 - Mezcal: Diferentes agaves, una sola destilación, sabor agresivo, tiene un gusano maguey (rojos y blancos)
 
 
-# Marcas
+## Marcas
 
-- Jose Cuervo Especial
-  
-[Plata] - 38% (agave + caramelo, hierbas frescas)
+### Jose Cuervo Especial
 
-[Reposado] - 38% (agave + madera, vainilla)
+- [Plata] - 38% (agave + caramelo, hierbas frescas)
+- [Reposado] - 38% (agave + madera, vainilla)
 
-- 1800
-
-[Blanco] - 40% (agave + citricos, hiervas)
-
-[Reposado] - 40% (agave + caramelo, vainilla, roble, ahumado)
+### 1800
+- [Blanco] - 40% (agave + citricos, hiervas)
+- [Reposado] - 40% (agave + caramelo, vainilla, roble, ahumado)
 
 - Olmeca (100% agave azul)
   
