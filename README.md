@@ -1,6 +1,33 @@
-# Pisco
+# Pisco (Perú)
 
+destilado aguardiente 40% 42%
+agu virtuosa, bebida espirituosa
+
+uva prensada - mosto - fermentacion- destilado (alambiques)
+1 litro -  5kgr uva
+
+cabeza -  metal 70%
+cuerpo etanol 32 43
+cola o chicharron
+
+acholado (blend) mezcla antes o despues de la fermentacion
+mosto verde - fermentacion inconpleta 8 kgr - 1 litro
+
+uvas pisqueras
+## no aromaticas
+- Negra criolla (Tacna, Moquegua)
+- Quebranta (Ica)
+- Mollar
+- Uvina (Lunahuana, Zuñiga, Pacarán)
+## aromaticas
+- Moscatel
+- Italia
+- Torontel
+- Albilla
+  
 # Ron
+
+destilado zumo de caña de azucar - melasa
 
 # Tequila (México)
 
