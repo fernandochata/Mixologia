@@ -41,27 +41,23 @@ Denominación de origen (1997) : Franja tequilera (Jalisco + Guanajuato, Michoac
 - [Blanco] - 40% (agave + citricos, hiervas)
 - [Reposado] - 40% (agave + caramelo, vainilla, roble, ahumado)
 
-- Olmeca (100% agave azul)
+### Olmeca (100% agave azul)
+- [Silver] - 38% (agave + hiervas, citricos)
+- [Reposado] - 38% (agave + madera, vainilla, miel, humo)
+
+### El Jimador (100% agave azul)
+- [Blanco] - 35% (agave + citricos, hiervas)
+- [Reposado] - 35% (agave + roble, vainilla, caramelo)
+
+### Herradura (100% agave azul)
+
+- [Añejo] - 40% (agave + roble, limon, caramelo, vainilla)
+
+### Gusano Rojo (Maguey Espadin)
   
-[Silver] - 38% (agave + hiervas, citricos)
+- [Clásico] - 38%
 
-[Reposado] - 38% (agave + madera, vainilla, miel, humo)
-
-- El Jimador (100% agave azul)
-  
-[Blanco] - 35% (agave + citricos, hiervas)
-
-[Reposado] - 35% (agave + roble, vainilla, caramelo)
-
-- Herradura (100% agave azul)
-  
-[Añejo] - 40% (agave + roble, limon, caramelo, vainilla)
-
-- Gusano Rojo (Maguey Espadin)
-  
-[Clásico] - 38%
-
-## Gin (Reino Unido)
+# Gin (Reino Unido)
 
 40% - 43% vol. alc. (80 y 86 proof)
 
@@ -69,12 +65,16 @@ Denominación de origen (1997) : Franja tequilera (Jalisco + Guanajuato, Michoac
 
 Ginebra (Holanda) mismo proceso, pero con menos botanicos
 
+## Proceso
+
 - Moliente, cocción
 - Fermentación
 - Destilación (Coffey - aguardiente 96 GL)
 - Rectificación, Saborización (agregado elementos botanicos)
 - Dilución (+ agua 40 y 47 GL)
 - Filtrado
+
+## Marcas
 
 - Tanqueray 47% (enebro + herbal dulce, resina)
 - Beefeater 40% (enebro + limon, naranja, almendra)
@@ -89,6 +89,6 @@ Ginebra (Holanda) mismo proceso, pero con menos botanicos
 
 
 
-## Vodka ##
+# Vodka
 
-## Wisky ##
+# Whisky
